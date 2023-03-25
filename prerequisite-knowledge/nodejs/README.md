@@ -12,7 +12,7 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 
 4. **NPM (Node Package Manager)**: NPM is a package manager for Node.js that is used to manage and install packages and dependencies. It is important to understand how to use NPM to install and manage packages, as well as how to create and publish your own packages.
 
-5. **[CommonJS modules](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/**: Node.js uses the CommonJS module system, which allows you to break your code into reusable modules. It is important to understand how to use require() and module.exports to import and export modules.
+5. **[CommonJS modules](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge)**: Node.js uses the CommonJS module system, which allows you to break your code into reusable modules. It is important to understand how to use require() and module.exports to import and export modules.
 
 ### Some of the core features of Node.js are:
 
