@@ -7,28 +7,28 @@
 
 1. **Asynchronous programming**:
 
-- Node.js is known for _its non-blocking, asynchronous I/O model_.
-- It is important to understand how asynchronous programming works in Node.js, and how to use callbacks, promises, and async/await to handle asynchronous operations.
+    - Node.js is known for _its non-blocking, asynchronous I/O model_.
+    - It is important to understand how asynchronous programming works in Node.js, and how to use callbacks, promises, and async/await to handle asynchronous operations.
 
 2. **[HTTP module](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/commonjs)**:
 
-- Node.js has a built-in HTTP module that _allows you to create and handle HTTP servers and clients_.
-- It is important to understand the basics of HTTP, such as HTTP methods, request and response headers, and status codes.
+    - Node.js has a built-in HTTP module that _allows you to create and handle HTTP servers and clients_.
+    - It is important to understand the basics of HTTP, such as HTTP methods, request and response headers, and status codes.
 
 3. **[Express framework](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/express-framework)**:
 
-- Express is a popular Node.js web framework that is often used in conjunction with NestJS.
-- It is recommended to have a basic understanding of Express, including routing, middleware, and template engines.
+    - Express is a popular Node.js web framework that is often used in conjunction with NestJS.
+    - It is recommended to have a basic understanding of Express, including routing, middleware, and template engines.
 
 4. **NPM (Node Package Manager)**:
 
-- NPM is a package manager for Node.js that is used to manage and install packages and dependencies.
-- It is important to understand how to use NPM to install and manage packages, as well as how to create and publish your own packages.
+    - NPM is a package manager for Node.js that is used to manage and install packages and dependencies.
+    - It is important to understand how to use NPM to install and manage packages, as well as how to create and publish your own packages.
 
 5. **[CommonJS modules](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge)**:
 
-- _Node.js uses the CommonJS module system_, which allows you to break your code into reusable modules.
-- It is important to understand how to use require() and module.exports to import and export modules.
+    - _Node.js uses the CommonJS module system_, which allows you to break your code into reusable modules.
+    - It is important to understand how to use require() and module.exports to import and export modules.
 
 ### More about Node.js
 
