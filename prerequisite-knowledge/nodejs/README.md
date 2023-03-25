@@ -10,7 +10,7 @@
     - Node.js is known for _its non-blocking, asynchronous I/O model_.
     - It is important to understand how asynchronous programming works in Node.js, and how to use callbacks, promises, and async/await to handle asynchronous operations.
 
-2. **[HTTP module](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/nodejs/commonjs)**:
+2. **[HTTP module](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/nodejs/http-module)**:
 
     - Node.js has a built-in HTTP module that _allows you to create and handle HTTP servers and clients_.
     - It is important to understand the basics of HTTP, such as HTTP methods, request and response headers, and status codes.
