@@ -8,7 +8,7 @@ Node.js is an open-source, cross-platform, back-end JavaScript runtime environme
 
 2. **[HTTP module](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/commonjs)**: Node.js has a built-in HTTP module that allows you to create and handle HTTP servers and clients. It is important to understand the basics of HTTP, such as HTTP methods, request and response headers, and status codes.
 
-3. **Express framework**: Express is a popular Node.js web framework that is often used in conjunction with NestJS. It is recommended to have a basic understanding of Express, including routing, middleware, and template engines.
+3. **[Express framework](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/express-framework)**: Express is a popular Node.js web framework that is often used in conjunction with NestJS. It is recommended to have a basic understanding of Express, including routing, middleware, and template engines.
 
 4. **NPM (Node Package Manager)**: NPM is a package manager for Node.js that is used to manage and install packages and dependencies. It is important to understand how to use NPM to install and manage packages, as well as how to create and publish your own packages.
 
