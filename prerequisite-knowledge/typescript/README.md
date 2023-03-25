@@ -14,6 +14,7 @@ Here are some key concepts in TypeScript that you should be familiar with:
    ```
 
 2. Classes
+
    TypeScript is an object-oriented language and supports classes, which are used to encapsulate data and behavior. Here's an example of a simple class in TypeScript:
 
    ```typescript
@@ -36,6 +37,7 @@ Here are some key concepts in TypeScript that you should be familiar with:
    ```
 
 3. Interfaces
+
    Interfaces in TypeScript define the shape of an object or a function.
    They can be used to ensure that objects or functions meet certain requirements.
    Here's an example of an interface for a simple Todo object:
@@ -49,6 +51,7 @@ Here are some key concepts in TypeScript that you should be familiar with:
    ```
 
 4. Generics
+
    TypeScript supports generics, which allow you to create reusable code that can work with different types.
    For example, here's how you can create a generic function that takes an array of any type and returns the first element:
 
