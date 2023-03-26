@@ -28,7 +28,7 @@
   - The response object contains information about the response, such as the response status code, headers, and body.
   - You can read the response body using the on() method of the response object, which allows you to read the response in chunks.
 
-**$\rightarrow$ The HTTP module is a fundamental module in Node.js and is used extensively in web development.
+**$\rightarrow$ The HTTP module is a fundamental module in Node.js and is used extensively in web development.\
 $\rightarrow$ By understanding the key concepts and functions of the HTTP module, you will be able to create and handle HTTP servers and clients in your Node.js applications.**
 
 ### Example
