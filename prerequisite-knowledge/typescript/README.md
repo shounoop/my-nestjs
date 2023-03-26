@@ -3,7 +3,7 @@
 - Before diving into NestJS, it's important to have a solid understanding of TypeScript, since NestJS is built on top of it.
 - Here are some key concepts in TypeScript that you should be familiar with:
 
-  ##### 1. Static Typing
+  ### 1. Static Typing
 
   - TypeScript is a statically-typed language, which means that variables, function parameters, and return values can be typed with explicit types.
   - This helps catch errors at compile time rather than at runtime.
@@ -13,7 +13,7 @@
     let message: string = 'Hello, world!';
     ```
 
-  ##### 2. Classes
+  ### 2. Classes
 
   - TypeScript is an object-oriented language and supports classes, which are used to encapsulate data and behavior.
   - Here's an example of a simple class in TypeScript:
@@ -37,7 +37,7 @@
     console.log(john.getFullName()); // Output: "John Doe"
     ```
 
-  ##### 3. Interfaces
+  ### 3. Interfaces
 
   - Interfaces in TypeScript define the shape of an object or a function.
   - They can be used to ensure that objects or functions meet certain requirements.
@@ -51,7 +51,7 @@
     }
     ```
 
-  ##### 4. Generics
+  ### 4. Generics
 
   - TypeScript supports generics, which allow you to create reusable code that can work with different types.
   - For example, here's how you can create a generic function that takes an array of any type and returns the first element:
