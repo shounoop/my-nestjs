@@ -16,9 +16,3 @@
   - [Authorization](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/web-development/authorization)
   - [Database Queries](https://github.com/shounoop/my-nestjs/tree/main/prerequisite-knowledge/web-development/database-queries)
   - ...
-
-### CLIs
-
-```cmd
-nest g module [module name]
-```
