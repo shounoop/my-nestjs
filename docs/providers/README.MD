@@ -1,6 +1,6 @@
 # Providers
 
-# Here are some important things to know about Providers in NestJS:
+Here are some important things to know about Providers in NestJS:
 
 - Providers are classes that can be injected into other classes, such as Controllers or other Providers, using Dependency Injection (DI).
 
