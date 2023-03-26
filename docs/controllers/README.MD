@@ -9,7 +9,7 @@ Here are some important things to know about Controllers in NestJS:
 - Controllers can also define parameters in their methods to capture data from the HTTP request, such as query parameters, request headers, or request bodies. For example, a GET request for a specific user might include the user ID in the URL, and a method in a controller could capture that ID using the @Param decorator.
 - Here's an example of a simple controller in NestJS:
 
-  ```javascript
+  ```typescript
   import { Controller, Get, Post, Body, Param } from '@nestjs/common';
   import { UserService } from './user.service';
   import { CreateUserDto } from './create-user.dto';
